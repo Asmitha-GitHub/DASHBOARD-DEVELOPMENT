@@ -13,7 +13,7 @@
  
  *MENTOR*: NEELA SANTOSH
 
-Tableau Dashboard Link: https://public.tableau.com/views/your_dashboard_link
+TABLEAU DASHBOARD LINK: https://public.tableau.com/shared/4XH8ZR8TN?:display_count=n&:origin=viz_share_link
 
  DESCRIPTION OF TASK 3: As part of my internship at CodTech IT Solutions under the guidance of my mentor Neela Santosh, I was assigned a Data Visualization task using Tableau. The goal was to build a fully functional interactive dashboard that could visually explore key trends and patterns in a real-world housing dataset.
 
