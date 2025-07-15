@@ -41,3 +41,7 @@ These global filters enabled users to drill down into specific segments of the d
 Once the visualizations were finalized, I built the dashboard by strategically arranging all charts for clear readability. I ensured that filters applied globally across all relevant visuals. The dashboard allows users to intuitively explore how factors like neighborhood, house quality, living area, and sale condition influence house pricing over time.
 
 This task enhanced my understanding of business intelligence tools, interactive analytics, and visual storytelling. It also improved my ability to think critically about data insights and user-friendly design.
+
+OUTPUT:
+
+<img width="1506" height="916" alt="Image" src="https://github.com/user-attachments/assets/8aff5c52-8b73-47bb-9d7c-427cb1376348" />
